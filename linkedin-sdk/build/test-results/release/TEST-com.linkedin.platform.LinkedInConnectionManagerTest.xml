@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.linkedin.platform.LinkedInConnectionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-18T07:17:42" hostname="Kevins-MacBook-Pro.local" time="1.132">
+<testsuite name="com.linkedin.platform.LinkedInConnectionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-18T07:32:45" hostname="Kevins-MacBook-Pro.local" time="1.183">
   <properties/>
-  <testcase name="testSomething" classname="com.linkedin.platform.LinkedInConnectionManagerTest" time="1.132"/>
+  <testcase name="testSomething" classname="com.linkedin.platform.LinkedInConnectionManagerTest" time="1.183"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[WARNING: no system properties value for ro.build.date.utc
 ]]></system-err>

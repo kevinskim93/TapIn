@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.linkedin.platform.LinkedInConnectionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-18T07:17:21" hostname="Kevins-MacBook-Pro.local" time="20.128">
+<testsuite name="com.linkedin.platform.LinkedInConnectionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-18T07:32:43" hostname="Kevins-MacBook-Pro.local" time="1.199">
   <properties/>
-  <testcase name="testSomething" classname="com.linkedin.platform.LinkedInConnectionManagerTest" time="20.128"/>
+  <testcase name="testSomething" classname="com.linkedin.platform.LinkedInConnectionManagerTest" time="1.199"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Downloading: org/robolectric/android-all/4.1.2_r1-robolectric-0/android-all-4.1.2_r1-robolectric-0.pom from repository sonatype at https://oss.sonatype.org/content/groups/public/
-Transferring 1K from sonatype
-Downloading: org/ccil/cowan/tagsoup/tagsoup/1.2/tagsoup-1.2.pom from repository sonatype at https://oss.sonatype.org/content/groups/public/
-Transferring 1K from sonatype
-Downloading: org/ccil/cowan/tagsoup/tagsoup/1.2/tagsoup-1.2.jar from repository sonatype at https://oss.sonatype.org/content/groups/public/
-Downloading: org/robolectric/android-all/4.1.2_r1-robolectric-0/android-all-4.1.2_r1-robolectric-0.jar from repository sonatype at https://oss.sonatype.org/content/groups/public/
-Transferring 88K from sonatype
-Transferring 30702K from sonatype
-WARNING: no system properties value for ro.build.date.utc
+  <system-err><![CDATA[WARNING: no system properties value for ro.build.date.utc
 ]]></system-err>
 </testsuite>
