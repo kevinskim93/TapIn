@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.linkedin.platform.LinkedInSessionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-18T07:17:41" hostname="Kevins-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="testSomething" classname="com.linkedin.platform.LinkedInSessionManagerTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
